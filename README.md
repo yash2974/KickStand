@@ -1,7 +1,4 @@
 
-Kickstand
-
-## Acknowledgements
 # 🏍️ Kickstand
 
 **Kickstand** is a React Native app for motorcycle enthusiasts to manage rides, track vehicle expenses, connect with other riders, and share experiences.  
